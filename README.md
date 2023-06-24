@@ -1,10 +1,8 @@
-# Vacunas_2023
-Integrantes. Maria Jose Martinez Guillén. Axel Ivan Valle Obando. William Alexander Espinales Hernandez
 
-Ingenieria de Sistemas, 
-
-Info -----------------------------------
-
+  # YOUR PROJECT : Vacunas_2023
+  #### Video Demo: 
+  #### Description:
+                        
 Proyecto "Vacunacion".
 
 Es un proyecto elaborado en c# haciendo uso de base de datos sql (structure query language)
